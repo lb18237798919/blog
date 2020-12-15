@@ -3,7 +3,7 @@
 ## html 面试题
 
  [1.语义化的理解](/html_css/html.html#_1-语义化的理解)
- 
+
  [2.Doctype的作用是什么？html5 中为什么只需要写 <!DOCTYPE HTML>？](/html_css/html.html#_2-doctype)
 
  [3.常用的五大浏览器分别是什么，以及内核是什么？](/html_css/html.html#_3-五大浏览器，以及内核)
@@ -50,3 +50,5 @@
 ## CSS布局
 
 [1.flex布局](/html_css/css布局.html#flex布局)
+
+[2.响应式布局](/html_css/css布局.html#响应式布局)

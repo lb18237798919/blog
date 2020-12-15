@@ -10,6 +10,7 @@ module.exports = [
   {
     text: '笔记', items: [
       { text: 'git', link: '/git/' },
+      { text: 'note', link: '/note/' },
     ]
   },
   { text: '码云', link: 'https://gitee.com/lb18237798919' },
